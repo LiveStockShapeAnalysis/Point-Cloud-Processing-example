@@ -1,0 +1,1 @@
+global_hypothesis_verification.exe milk.pcd milk_cartoon_all_small_clorox.pcd --algorithm GC -c -k

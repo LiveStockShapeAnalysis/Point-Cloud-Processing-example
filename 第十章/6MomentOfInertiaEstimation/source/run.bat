@@ -1,0 +1,1 @@
+moment_of_inertia.exe lamppost.pcd

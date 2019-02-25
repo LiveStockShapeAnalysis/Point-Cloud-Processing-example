@@ -1,0 +1,4 @@
+searchradius=0.05
+searchradius=0.07
+searchradius=0.1
+searchradius=0.15

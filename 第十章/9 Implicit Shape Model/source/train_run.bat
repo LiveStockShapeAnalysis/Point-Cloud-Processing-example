@@ -1,0 +1,1 @@
+implicit_shape_model_training.exe ism_train_cat.pcd 0 ism_train_horse.pcd 1 ism_train_lioness.pcd 2 ism_train_michael.pcd 3 ism_train_wolf.pcd  4

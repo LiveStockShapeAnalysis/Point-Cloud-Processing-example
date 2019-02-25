@@ -1,0 +1,1 @@
+implicit_shape_model_classification.exe ism_train_horse.pcd 1
